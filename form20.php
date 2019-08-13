@@ -1,5 +1,6 @@
 <?php
 echo 'git';
+echo 'Git';
 ?>
 <!DOCTYPE html>
 <html>
