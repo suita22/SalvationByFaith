@@ -1,6 +1,7 @@
 <?php
 echo 'git';
 echo 'Git';
+echo 'Gitgit';
 ?>
 <!DOCTYPE html>
 <html>
