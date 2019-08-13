@@ -10,6 +10,7 @@ echo $message;
 <title>Git</title>
 </head>
 <body>
+<?php echo $message; ?>
 <p><a href='get20.php?key=<?php echo $message; ?>'>飛ぶ</a></p>
 </body>
 </html>
