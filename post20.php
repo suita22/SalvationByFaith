@@ -1,6 +1,7 @@
 <?php
 echo $_POST['post'];
 $message = $_POST['post'];
+echo $message;
 ?>
 
 <!DOCTYPE html>
