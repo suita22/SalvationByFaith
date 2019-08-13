@@ -1,2 +1,3 @@
 <?php
-echo $_GET['key'];
+$message = $GET['key'];
+echo $message;
